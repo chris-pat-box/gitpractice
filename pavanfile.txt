@@ -1,1 +1,2 @@
 touch file
+this is second line in file
