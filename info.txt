@@ -1,4 +1,12 @@
 there you go. this is first file in git practice through ec2 instance.
 this is second line
 third one
+<<<<<<< HEAD
+fourth line completed
+=======
 fourth line
+
+
+
+this change from repository
+>>>>>>> 7a4ac6bc103a5b492e3162deab4f32d873e79b72
