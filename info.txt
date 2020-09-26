@@ -1,1 +1,8 @@
-This is third stash
+there you go. this is first file in git practice through ec2 instance.
+this is second line
+third one
+fourth line completed
+
+
+
+this change from repository
