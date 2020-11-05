@@ -7,3 +7,5 @@ fourth line completed
 this changed from repository
 
 something new from this info file
+
+testing function
