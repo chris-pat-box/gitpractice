@@ -1,0 +1,24 @@
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
+# User specific environment
+PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+export PATH
+
+# Uncomment the following line if you don't like systemctl's auto-paging feature:
+# export SYSTEMD_PAGER=
+
+# User specific aliases and functions
+echo "Hello! Pavan Singh. Welcome to Terminal."
+hello(){ echo "hii";}
+gitc(){
+cd $1
+git add -A
+git commit -m "$2"
+git push origin -m "$2"
+git push origin master
+}
