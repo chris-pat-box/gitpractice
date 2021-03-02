@@ -5,4 +5,4 @@ this is second line in file
 
 I am practicing something new
 
-i removed one line
+edited the last line
